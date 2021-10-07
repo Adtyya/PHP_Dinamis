@@ -1,0 +1,13 @@
+.navbar-brand img{
+    max-height: 80px;
+}
+.container-fluid .logo{
+    width: 180px;
+}
+.row img{
+    max-height: 320px;
+    max-width:  220px;
+}
+.jarak{
+    height: 80px;
+}
